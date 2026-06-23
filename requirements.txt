@@ -1,0 +1,7 @@
+pathlib
+altair
+numpy
+pandas
+streamlit
+scikit-learn
+xgboost
